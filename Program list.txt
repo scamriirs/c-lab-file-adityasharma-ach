@@ -41,3 +41,20 @@ a. Copy( ) and Join().
 keyboard. Throw an event called alert, if these variables level shoot above a certain level. [Event Handling] 
 
 17. Concept to illustrate overloading an indexer.
+18. Implement the concept in C# consisting of a delegate called student that refers to a method called 
+
+student record (), your program should get the details of student record and display. [Delegate] 
+
+19. Develop the Concept to create a class that does metric conversion from meters, centimeter to feet, inches 
+
+respectively. Create a class called meters.txt and read the data from the user by prompting. Convert this 
+
+data into feet and inches and save it in another file called feet.txt. [File Handling] 
+
+20. Prepare a login form, which will accept unique username, password of alphanumeric type, re-type 
+
+password, date of birth, and text to remember password. And put all necessary validation. If user does 
+
+not fill the complete form it should show valid error message. Also if user is new then there should be 
+
+option for creating new Login and a checkbox to remember on computer. [Windows application].
