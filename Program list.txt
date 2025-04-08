@@ -1,0 +1,43 @@
+C# Console Programming: 
+
+1. Write program to demonstrate the working of C# SDK. 
+
+2. Write program to show the use of various data types available in C#. 
+
+3. Write programs to understand the use of Control statements. 
+
+4. Write programs to understand the use of library functions. 
+
+5. Write a program to demonstrate the use of various arithmetic, unary, logical, bit-wise, assignment and 
+
+conditional operators. 
+
+6. Write a program to store 10 elements in an array and display the array elements in increasing order. 
+
+7. Demonstrate the use of pass by value and pass by reference by writing a program. 
+
+8. Write a program to implement recursion. 
+
+9. Write programs to implement one dimensional and two dimensional arrays. 
+
+10. Write programs to understand the working of predefined string functions like Compare( ), CompareTo( ), 
+
+Concat( ), 
+
+a. Copy( ) and Join(). 
+
+11. Write a program to implement class and its objects. 
+
+12. Write a program to implement constructors. 
+
+13. Create one admission enquiry form. 
+
+14. Create a windows form with registration number, name, age, class and other details. 
+
+15. Implement the concept of file handling to read XML file and display all the values in a read only Form. 
+
+16. Concept of three variables: temp, pressure and water level for a chemical industry boiler from the 
+
+keyboard. Throw an event called alert, if these variables level shoot above a certain level. [Event Handling] 
+
+17. Concept to illustrate overloading an indexer.
